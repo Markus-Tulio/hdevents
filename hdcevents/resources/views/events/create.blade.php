@@ -4,14 +4,7 @@
 
 @section('content')
 
-<h1>Algum título</h1>
-<img src="/img/banner.jpg" alt="Banner">
-
-@php
-    $name = "João";
-    echo $name;
-@endphp
-
+<h1>create events</h1>
 <!-- Comentário do HTML -->
 {{-- Este é o comentário do Blade --}}
 
